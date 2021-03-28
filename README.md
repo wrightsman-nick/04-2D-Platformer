@@ -3,7 +3,7 @@
 ## Implementation
 Character, Load, Save, Score (through coins), Patrol Enemy, Stalk Enemy, Death upon Falling off, Music, Background Image
 ## References
-Resources from kenney.nl 
+Resources from www.kenney.nl 
 ## Future Development
 Probs not
 ## Created by
